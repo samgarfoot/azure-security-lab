@@ -1,4 +1,4 @@
-# Azure Security Lab
+# Azure SOC Lab
 
 A hands-on security operations lab built on Microsoft Azure, demonstrating end-to-end threat detection, log analysis, and automated incident response using Microsoft Sentinel, Defender XDR, and Defender for Cloud. Built to develop practical experience across SIEM/SOC operations, detection engineering, and cloud security hardening — directly aligned to real-world government and enterprise security environments.
 
